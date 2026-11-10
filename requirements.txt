@@ -1,0 +1,12 @@
+# Đã kiểm thử với Python 3.12 và các phiên bản bên dưới
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.9
+seaborn>=0.13
+scipy>=1.12
+shapely>=2.1
+pyproj>=3.7
+requests>=2.31
+
+# Tùy chọn — kiểm định hậu-Friedman (Nemenyi) trong benchmark_cec2017
+scikit-posthocs>=0.14

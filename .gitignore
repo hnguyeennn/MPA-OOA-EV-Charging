@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Môi trường ảo
+.venv/
+venv/
+
+# IDE / công cụ
+.vscode/
+.idea/
+
+# Hệ điều hành
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Tài liệu
+docs/
+~$*.docx

@@ -1,0 +1,5 @@
+﻿Comparison,Delta_%,Direction,W_stat,p_value,Significance
+Full vs w/o Lévy Chaos,-1.74,"tốt hơn (loại bỏ không làm xấu, thậm chí cải thiện)",15.0,0.232421875,ns
+Full vs w/o OBL,-0.89,"tốt hơn (loại bỏ không làm xấu, thậm chí cải thiện)",16.0,0.275390625,ns
+Full vs w/o Dynamic FADs,-0.06,"tốt hơn (loại bỏ không làm xấu, thậm chí cải thiện)",25.0,0.845703125,ns
+Full vs w/o Elite Pool,0.01,xấu đi (cơ chế có đóng góp tích cực),27.0,1.0,ns

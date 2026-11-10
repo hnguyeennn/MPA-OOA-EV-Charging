@@ -1,0 +1,6 @@
+﻿Comparison,W_stat,p_value,Significance
+MPA-OOA vs Greedy,0.0,0.001953125,**
+MPA-OOA vs Clustering,0.0,0.001953125,**
+MPA-OOA vs HillClimbing,0.0,0.001953125,**
+MPA-OOA vs GA,0.0,0.001953125,**
+MPA-OOA vs PSO,0.0,0.001953125,**
